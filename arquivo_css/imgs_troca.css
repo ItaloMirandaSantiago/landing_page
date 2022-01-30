@@ -1,0 +1,26 @@
+.balle_bot{
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    background-image: url(../imgs/bot_princ.png);
+}
+
+.batman{    
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    background-image: url(../imgs/batman_dois.png);
+}
+
+.loritta{    
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    background-image: url(../imgs/chatbot.png);
+}
