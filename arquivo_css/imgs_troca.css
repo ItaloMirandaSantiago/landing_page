@@ -1,6 +1,4 @@
 .balle_bot{
-    width: 250px;
-    height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
@@ -8,8 +6,6 @@
 }
 
 .batman{    
-    width: 250px;
-    height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
@@ -17,8 +13,6 @@
 }
 
 .loritta{    
-    width: 250px;
-    height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
