@@ -10,6 +10,7 @@ body{
     font-family: 'Supermercado One', "cursive";
     background: linear-gradient(68.15deg, #8b3542 10%, #45978e 90%);
     font-size: 100%;
+
 }
 
 #menu{
@@ -28,7 +29,8 @@ body{
 .links{
     font-size: 20px;
     font-weight: 400;
-    text-decoration: none
+    text-decoration: none;
+    color: black;
 }
 
 .bots_link{
